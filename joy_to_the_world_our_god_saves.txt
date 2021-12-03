@@ -1,0 +1,54 @@
+{title:Joy to the World / Our God Saves}
+{artist:Paul Baloche}
+{key:C}
+[C]Joy to the world, the Lord is come
+Let [F]earth re[G]ceive her [C]King
+[C]Let every heart, prepare Him room
+[C]And heaven and nature sing
+Let [Gsus4]heaven and nature [G]sing
+Let hea[C]ven, and heaven and na[G]ture [C/F]sing
+
+Joy to the world, the Savior reigns,
+Let men their songs employ
+While fields and floods, rocks, hills and plains
+Repeat the sounding joy
+Repeat the sounding joy
+Repeat, repeat the sounding joy
+
+{start_of_chorus}
+Hear the [C]joyful sound of our offering
+As Your [Em7/B]saints bow down, as Your people sing
+We will [Am7]rise with You lifted on Your wings
+And the [Fsus]world will see that
+Our God [C]saves, our God s[G]aves
+There is [Am]hope in Your n[F]ame
+{end_of_chorus}
+
+You rule the world, with truth and grace
+And make the nations prove
+The glories of Your righteousness
+The wonders of Your love
+The wonders of Your love
+The wonders, wonders of Your love
+
+{start_of_chorus}
+Hear the [C]joyful sound of our offering
+As Your [Em7/B]saints bow down, as Your people sing
+We will [Am7]rise with You lifted on Your wings
+And the [Fsus]world will see that
+Our God [C]saves, our God s[G]aves
+There is [Am]hope in Your n[F]ame
+Mourning [C]turns to songs of p[G]raise
+Our God [Am]saves, our God [F]saves
+{end_of_chorus}
+
+{gc:Instrumental:}
+[G | Am | F | C]
+[G | Am | F | F]
+
+{gc:Coda:}
+[C]Joy to the world, The Lord is come[F]
+[C]Joy to the world, The Lord is come[F]
+[C]You rule the world, with truth and grace[F]
+[C]You rule the world, with truth and grace[F]
+

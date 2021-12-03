@@ -1,0 +1,42 @@
+{title: Our God}
+{subtitle: Is Greater}
+{artist: Chris Tomlin, Jesse Reeves, Jonas Myrin, Matt Redman}
+{copyright:(c)2010 Atlas Mountain Songs, sixsteps Music, Thankyou Music, Vamos Publishing, worshiptogether.com songs}
+{Capo: 4}
+{Key:G}
+[Em][C][G][D/F#][Em][C][G][D]
+
+[Em]Water You t[C]urned into win[G]e
+[Em]Opened the e[C]yes of the blin[G]d
+There's no one [Am7]like You
+None like [D]You
+
+[Em]Into the d[C]arkness You shin[G]e
+[Em]Out of the a[C]shes we ris[G]e
+There's no one l[Am7]ike You
+None like [D]You
+
+{start_of_chorus}
+[Em]Our God is greater
+[C]Our God is stronger 
+[G]God You are higher than [D/F#]any other
+[Em]Our God is healer
+[C]Awesome in power
+Our G[G]od, Our G[D]od
+{end_of_chorus}
+
+[Em]Into the d[C]arkness You shin[G]e
+[Em]Out of the a[C]shes we ris[G]e 
+There's no one [Am7]like You
+None like [D]You
+
+{gc:Bridge:}
+[Em]And if our God is for us
+[C]Then who could ever stop us
+[G]And if our God is with us
+[D/F#]Then what could stand against
+[Em]And if our God is for us
+[C]Then who could ever stop us
+[G]And if our God is with us
+[D]Then what could stand against
+

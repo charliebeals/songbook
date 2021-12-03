@@ -1,0 +1,64 @@
+{title:Hosanna}
+{subtitle:I See The King Of Glory}
+{artist:Brooke Ligertwood}
+{copyright:(c)2006 Hillsong Music Publishing}
+{capo:4}
+{key:C}
+{gc:Intro:}
+[Am][C][Dm7][Em]
+[C]I see the King of glory
+[Am]Coming down on clouds with fire
+The whole Earth [Dm7]shakes
+The whole earth [G]shakes… 
+Yeah[Am]
+[C]I see his love and mercy
+[Am]Washing over all our sin
+The people [Dm7]sing
+The people [G]sing
+
+{soc}
+[C/E]Hosa[F]nna, [G]Hosa[Am]nna
+[F]Hosanna in the [Am]highest[G]
+[C/E]Hosa[F]nna, [G]Hosa[Am]nna
+[F]Hosanna in the [G]highest[Am]
+{eoc}
+{gc:Break}
+[Am]
+[C]I see a generation
+[Am]Rising up to take their place
+With selfless [Dm7]faith
+With selfless [G]faith
+[C]I see a near revival
+[Am]Stirring as we pray and seek
+We're on our k[Dm7]nees
+We're on our [G]knees
+
+{soc}
+[C/E]Hosa[F]nna, [G]Hosa[Am]nna
+[F]Hosanna in the [Am]highest[G]
+[C/E]Hosa[F]nna, [G]Hosa[Am]nna
+[F]Hosanna in the [G]highest[Am]
+{eoc}
+{gc:Guitar solo}
+[Am][C][Dm7][G]
+{gc:Bridge}
+[F]Heal my heart and make it [G]clean
+[C]Open up my eyes to the [Am]things unseen
+[F]Show me how to love like [G]you, have loved me[Am]
+[F]Break my heart for what breaks [G]yours
+[C]Everything I am for your [Am]kingdom's cause
+[F]As i walk from earth into[G] eternity[F]
+
+{soc}
+[C/E]Hosa[F]nna, [G]Hosa[Am]nna
+[F]Hosanna in the [Am]highest[G]
+[C/E]Hosa[F]nna, [G]Hosa[Am]nna
+[F]Hosanna in the [G]highest[C]
+[C/E]Hosa[F]nna, [G]Hosa[Am]nna
+[F]Hosanna in the [Am]highest[G]
+[C/E]Hosa[F]nna, [G]Hosa[Am]nna
+[F]Hosanna in the [G]highest[Am]
+[F]Hosanna in the [G]highest[Am]
+[F]Hosanna in the [G]highest[Am]
+[F]Hosanna in the [G]high[C]est
+{eoc}

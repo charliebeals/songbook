@@ -1,0 +1,71 @@
+{title: Oceans}
+{subtitle: Where Feet May Fail}
+# Imported by com.tenbyten.Chordpro-Editor 1.0
+{key: D}
+
+[Bm][A][D][A][G]
+
+[Bm]You call me out [A]upon the[D] waters
+The great [A]unknown where feet[G] may fail
+[Bm]And there I find you in [A]the m[D]ystery
+In oceans[A] deep
+[G]My faith will stand
+
+{start_of_chorus}
+[G]And I will c[D]all upon your[A] name
+[G]And keep my e[D]yes above the[A] waves
+When oceans r[G]ise
+My soul will [D]rest in your [A]embrace
+For I am yo[G]urs and yo[A]u are [Bm]min[A]e[D][A][G]
+{end_of_chorus}
+
+Your grace abounds in deepest waters
+Your sovereign hand
+Will be my guide
+Where feet may fail and fear surrounds me
+You've never failed and you won't start now
+
+{start_of_chorus}
+[G]And I will c[D]all upon your[A] name
+[G]And keep my e[D]yes above the[A] waves
+When oceans r[G]ise
+My soul will [D]rest in your [A]embrace
+For I am yo[G]urs and yo[A]u are [Bm]min[A]e[D][A][G]
+{end_of_chorus}
+
+{gc:Instrumental: x2:}
+[Bm][G][D][A]
+
+S[Bm]pirit lead me where my tr[G]ust is without borders
+[D]Let me walk upon the waters
+[A]Wherever you would call me
+[Bm]Take me deeper than my fe[G]et could ever wander
+[D]And my faith will be made stronger
+[A]In the presence of my savior
+
+[G]Spirit lead me where my trus[D]t is without borders
+Let me[A] walk upon the waters
+Wh[Em]erever you would call me
+[G]Take me deeper than my f[D]eet could ever wander
+And my fa[A]ith will be made stronger
+In the presence[Em] of my Savior
+
+[Bm]Spirit lead me [A]where my t[D]rust is without borders
+Le[A]t me walk upon the waters
+Wh[Em]erever you would call me
+[Bm]Take me deeper th[A]an my f[D]eet could ever wander
+An[A]d my faith will be made stronger
+In[Em] the presence of my Savior
+
+# [Bm]Yea[A]h [D]ye[A]ah[Em] ye[Bm]ah [A]Oh[D], [A]Je[Em]sus, you're my God
+
+[G]And I will c[D]all upon your[A] name
+[G]And keep my e[D]yes above the[A] waves
+[G]My soul will [D]rest in your [A]embrace
+I am you[G]rs and y[A]ou are[Bm] mine
+
+{gc:Outro:}
+[A][D][A][G][Bm][D]
+
+{artist: Joel Houston, Matt Crocker, Salomon Lighthelm}
+{copyright: (c)2012 Hillsong Music Publishing}

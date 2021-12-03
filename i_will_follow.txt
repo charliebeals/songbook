@@ -1,0 +1,50 @@
+{title: I Will Follow}
+{key: G}
+{artist: Chris Tomlin, Jason Ingram, Reuben Morgan}
+{copyright:(c)2010 SHOUT! Music Publishing}
+[Em]     Where You go, I’ll go[C/E]
+Where You [G/D]stay, I’ll stay
+When You [D]move, I’ll move      
+I wi[Em]ll [C2]fol[G]lo[D]w…
+
+[C]All Your ways are good[Em7]
+All Your ways are sure[D]
+I will tr[G]ust in Yo[D/F#]u alone[C]
+Higher than my sight[Em7]
+High above my life[D]
+I will t[G]rust in You alone[C]
+In Yo[D]u alone
+
+{start_of_chorus}
+Where You [Em7]go, I'll go[C2]
+Where You [G]stay, I'll stay
+When You [D]move, I'll move
+I will follow You
+Who You [Em7]love, I'll love[C2]
+How You [G]serve I'll serve
+If this life I lo[D]se, I will [Em7]follow You[C2]
+I will [G]follow You[D]
+{end_of_chorus}
+
+[C]Light unto the world[Em7]
+Light unto my life[D]
+I will l[G]ive for You[D] alone[C]
+You're the one I seek[Em7]
+Knowing I will find[D]
+All I ne[G]ed in You alone, [C]in You alone[D]
+
+{start_of_chorus}
+Where You [Em7]go, I'll go[C2]
+Where You [G]stay, I'll stay
+When You [D]move, I'll move
+I will follow You
+Who You [Em7]love, I'll love[C2]
+How You [G]serve I'll serve
+If this life I lo[D]se, I will [Em7]follow You[C2]
+I will [G]follow You[D]
+{end_of_chorus}
+
+[C]In You there's [G]life [D]everlasting
+[C]In You there's [G]freedom for my [D]soul
+[C]In You there's [G]joy, [D]unending [C]joy
+[G]and I will [D]follow

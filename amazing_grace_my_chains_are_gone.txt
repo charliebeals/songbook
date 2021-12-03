@@ -1,0 +1,50 @@
+{title: Amazing Grace}
+{subtitle: My Chains Are Gone}
+{artist: Chris Tomlin, Louie Giglio}
+{copyright: (c)2006 sixsteps Music}
+{key:E}
+A[E]mazing grace, how [A]sweet the [E]sound
+That [C#m]saved a [A]wretch like [B]me
+I [E]once was lost, but [A]now I'm [E]found
+Was [C#m]blind, but [A]now [B]I [E]see
+
+{soc}
+My [E]chains are [A]gone
+I've been set [E]free
+My God, my [A]Savior has ransomed [E]me
+And like a [A]flood His mercy [C#m]reigns
+Unending [B]love, amazing [E]grace
+{eoc}
+
+'Twas grace that taught my heart to fear
+And grace my fears relieved
+How precious did that grace appear
+The hour I first believed
+
+{soc}
+My [E]chains are [A]gone
+I've been set [E]free
+My God, my [A]Savior has ransomed [E]me
+And like a [A]flood His mercy [C#m]reigns
+Unending [B]love, amazing [E]grace
+{eoc}
+
+The Lord has promised good to me
+His word my hope secures
+He will my shield and portion be
+As long as life endures
+
+The earth shall soon dissolve like snow
+The sun forbear to shine
+But God, Who called me here below,
+Will be forever mine.
+Will be forever mine.
+You are forever mine.
+
+{soc}
+My [E]chains are [A]gone
+I've been set [E]free
+My God, my [A]Savior has ransomed [E]me
+And like a [A]flood His mercy [C#m]reigns
+Unending [B]love, amazing [E]grace
+{eoc}

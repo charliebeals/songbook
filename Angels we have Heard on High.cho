@@ -1,29 +1,33 @@
 {title: Angels we have Heard on High}
-{subtitle: Subtitle}
-{artist: Artist}
+{subtitle: In Excelsis Deo}
+{artist: Traditional French Carol}
 {key: F}
 
+{comment: Verse 1}
+[F]Angels [Dm]we have [C]heard on [F]high
+[F]Sweet[C]ly [F]sing[F/A]ing [F/C]o’er [C]the [F]plains
+[F]And the [Dm]mountains [C]in [F]reply
+[F]E[C]cho[F]ing [F/A]their [C/F]joy[C]ous [F]strains
+
 {start_of_chorus}
-Gloria In Excelsis Deo
-Gloria In Excelsis Deo
+[F]Glo[Dm][Gm][C][F][Bb][Dm][C][C/Bb]ria [F/A]In [C]Ex[F]cel[Bb]sis [F/C]De[C]o
+[F]Glo[Dm][Gm][C][F][Bb][Dm][C][C/Bb]ria [F/A]In [C]Ex[F]cel[Bb]sis [F/C][C]De[F]o
 {end_of_chorus}
 
-Angels we have heard on high
-Sweetly swinging o’er the plains
-And the mountains in reply
-Echoing their joyous strains
+{comment: Verse 2}
+[F]Shepherds [Dm]why this [C]jubi[F]lee
+[F]Why [C]your [F]joy[F/A]ous [F/C]strains [C]pro[F]long
+[F]What the [Dm]gladsome [C]tidings [F]be
+[F]Which [C]ins[F]pire [F/A]your [F/C]heaven[C]ly [F]song?
 
-Shepherds why this jubilee
-Why your joyous strains prolong
-What the gladsome tidings be
-Which inspire your heavenly song?
+{comment: Verse 3}
+[F]Come to [Dm]Bethle[C]hem and [F]see
+[F]Him [C]Whose [F]birth [F/A]the [F/C]an[C]gels [F]sing;
+[F]Come, [Dm]adore on [C]bended [F]knee
+[F]Christ [C]the [F]Lord, [F/A]the [F/C]new[C]born [F]King
 
-Come to Bethlehem and see
-Him Whose birth the angels sing;
-Come, adore on bended knee
-Christ the Lord, the newborn King
-
-See Him in a manger laid
-Whom the choirs of angels praise;
-Mary, Joseph, lend your aid
-While our hearts in love we raise
+{comment: Verse 4}
+[F]See Him [Dm]in a [C]manger [F]laid
+[F]Whom [C]the [F]choirs [F/A]of [F/C]an[C]gels [F]praise;
+[F]Mary, [Dm]Joseph, [C]lend your [F]aid
+[F]While [C]our [F]hearts [F/A]in [F/C]love [C]we [F]raise
